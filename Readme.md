@@ -8,7 +8,8 @@ A financial lending institution is experiencing increasing loan applications but
 ## Data Overview:
 *	Records: 38,600 
 * Fields: 20+ columns (loan and borrower attributes) 
-  **Key Variables**
+
+   **Key Variables**
 * Loan Amount – Total amount issued to the borrower 
 * Interest Rate – Rate applied to each loan 
 * Loan Status – Indicates whether the loan is fully paid or defaulted 
