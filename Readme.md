@@ -7,7 +7,7 @@ Key next steps include risk-based lending, stricter credit approval, and early d
 A financial lending institution is experiencing increasing loan applications but also significant losses from loan defaults. The company lacks visibility into which factors drive loan performance and risk. The objective of this analysis is to evaluate loan performance, identify factors contributing to loan defaults, and provide data-driven insights to improve credit risk management and maximize profitability.
 ## Data Overview:
 *	Records: 38,600 
-*Fields: 20+ columns (loan and borrower attributes) 
+* Fields: 20+ columns (loan and borrower attributes) 
  Key Variables
 *Loan Amount – Total amount issued to the borrower 
 *Interest Rate – Rate applied to each loan 
