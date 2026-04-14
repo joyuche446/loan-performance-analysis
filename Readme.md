@@ -8,6 +8,7 @@ A financial lending institution is experiencing increasing loan applications but
 ## Data Overview:
 *	Records: 38,600 
 * Fields: 20+ columns (loan and borrower attributes) 
+
 **Key Variables**
 * Loan Amount – Total amount issued to the borrower 
 * Interest Rate – Rate applied to each loan 
@@ -16,6 +17,7 @@ A financial lending institution is experiencing increasing loan applications but
 * Term – Duration of the loan 
 * Grade / Risk Category – Credit risk classification 
 * Annual Income – Borrower’s reported income
+
 **Methodology:**
 * Cleaned and structured loan data by handling duplicates, missing values, and formatting inconsistencies 
 *	Engineered features including loan classification and time-based trends 
