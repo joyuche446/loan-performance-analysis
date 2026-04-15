@@ -18,7 +18,7 @@ A financial lending institution is experiencing increasing loan applications but
 * Grade / Risk Category – Credit risk classification 
 * Annual Income – Borrower’s reported income
 
-**Methodology:**
+## Methodology:
 * Cleaned and structured loan data by handling duplicates, missing values, and formatting inconsistencies 
 *	Engineered features including loan classification and time-based trends 
 *	Conducted exploratory data analysis to identify patterns and high-risk segments 
