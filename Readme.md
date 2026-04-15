@@ -24,6 +24,15 @@ A financial lending institution is experiencing increasing loan applications but
 *	Conducted exploratory data analysis to identify patterns and high-risk segments 
 *	Developed key KPIs to evaluate loan performance and credit risk 
 *	Built an interactive Excel dashboard using Pivot Tables, charts, and slicers for insight delivery
+## Key Calculations & Metrics:
+## Skills:
+* Data cleaning (handling missing values, duplicates and formatting inconsistencies)
+* Data transformation using Conditional Logic and Date/Time functions.
+* Pivot Tables for data summarization and analysis
+* Pivot charts for visual insights
+* Slicers for interactive dashboard filtering
+* KPI calculations and performance metrics development
+* Dashboard creation and data visualization
 
 
 
